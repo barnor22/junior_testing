@@ -1,2 +1,0 @@
-norbi_mod
-norbi_mod_git
